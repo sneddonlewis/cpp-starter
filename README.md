@@ -1,7 +1,7 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![CI](https://github.com/sneddonlewis/cpp-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/sneddonlewis/cpp-starter/actions/workflows/ci.yml)
 
-# c++ Starter Project
+# C++ Starter Project
 
 ## Structure
 ``` text
